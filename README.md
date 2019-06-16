@@ -1,4 +1,4 @@
-# Finding customer similarity by using Distance Matrix & Try to predict Term Deposit results of customers via Neural Networks
+## Finding customer similarity by using Distance Matrix & Predict Term Deposit results of customers via Neural Networks
 
 The dataset I used is publicly available and can be found in this UCI Machine Learning Repository webpage; [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing).  I used "bank-additional-full.csv" dataset for this project. However, I used Google Colaboratory platform instead of my own CPU. 
 
